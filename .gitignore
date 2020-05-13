@@ -1,0 +1,23 @@
+.DS_Store
+client/node_modules/
+client/dist
+
+# local env files
+client/.env.local
+client/.env.*.local
+
+# Log files
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Editor directories and files
+client/.idea
+client/.vscode
+client/*.suo
+client/*.ntvs*
+client/*.njsproj
+client/*.sln
+client/*.sw?
+client/node_modules/.cache/babel-loader/4d01bddfe836cca4e8a7c2ccb7d2fd1c.json
+client/node_modules/.cache/babel-loader/4d01bddfe836cca4e8a7c2ccb7d2fd1c.json
